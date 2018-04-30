@@ -1,20 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+<?php
+	include_once 'header.php';
+?>
+	<section class="main-container">
+		<div class="main-wrapper">
+			<h2>Home</h2>
+		</div>
 
-</head>
-<body>
-	<header>
-		<nav>
-			<div class="main-wrapper">
-				
-			</div>
-		</nav>
-	</header>
-	<section>
 		
 	</section>
-</body>
-</html>
+
+<?php
+	include_once 'footer.php';
+?>
